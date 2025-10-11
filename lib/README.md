@@ -1,4 +1,4 @@
-# ❤️ `lib/` — Model and Pipeline Utilities
+# 📁 `lib/` — Model and Pipeline Utilities
 
 This folder contains the trained machine learning model and any preprocessing pipelines used in the **Heart Disease Prediction** web application.  
 These components are loaded by the Streamlit app to perform real-time predictions.
