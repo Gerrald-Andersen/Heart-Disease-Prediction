@@ -1,4 +1,4 @@
-# ❤️ `src/` — Core Modules for Heart Disease Prediction
+# 📁 `src/` — Core Modules for Heart Disease Prediction
 
 This folder contains the main components of the **Heart Disease Prediction** pipeline — from data preprocessing to model development and evaluation.  
 All modules are designed to integrate with the Streamlit web application and allow easy updates or retraining with new data.
