@@ -1,4 +1,4 @@
-# ❤️ `data/` — Datasets for Heart Disease Prediction
+# 📁 `data/` — Datasets for Heart Disease Prediction
 
 This folder contains raw and processed datasets used throughout the **Heart Disease Prediction** pipeline.  
 The data is sourced from Kaggle and cleaned/preprocessed before being used for model training and evaluation.
